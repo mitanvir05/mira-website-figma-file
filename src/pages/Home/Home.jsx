@@ -1,6 +1,8 @@
-import HeroSection from "../HeroSection/HeroSection";
-import TrustedSection from "../TrustedSection/TrustedSection";
-import Features from "../Features/Features";
+import HeroSection from "./HeroSection/HeroSection";
+import TrustedSection from "./TrustedSection/TrustedSection";
+import Features from "./Features/Features";
+import WorkTogether from "./Worktogether/Worktogether";
+import Connect from "./Connect/Connect";
 
 
 const Home = () => {
@@ -9,6 +11,8 @@ const Home = () => {
       <HeroSection />
       <TrustedSection />
       <Features/>
+      <WorkTogether/>
+      <Connect/>
     </div>
   );
 };
