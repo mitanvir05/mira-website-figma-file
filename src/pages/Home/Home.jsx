@@ -5,6 +5,7 @@ import WorkTogether from "./Worktogether/Worktogether";
 import Connect from "./Connect/Connect";
 import TheWayWeWork from "./TheWayWeWork/TheWayWeWork";
 import BuildTheWay from "./BuildTheWay/BuildTheWay";
+import BuildForTeam from "./BuildForTeam/BuildForTeam";
 
 
 const Home = () => {
@@ -16,7 +17,8 @@ const Home = () => {
       <WorkTogether/>
       <Connect/>
       <TheWayWeWork/>
-      <BuildTheWay></BuildTheWay>
+      <BuildTheWay/>
+      <BuildForTeam/>
     </div>
   );
 };
