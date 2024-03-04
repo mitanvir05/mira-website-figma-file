@@ -12,14 +12,26 @@ const TrustedSection = () => {
             alt=""
             className="lg:w-auto w-[60px]"
           />
-          <img src="/public/TrustedSectionImage/cisco.svg.png" alt="" className="lg:w-auto w-[100px]" />
+          <img
+            src="/public/TrustedSectionImage/cisco.svg.png"
+            alt=""
+            className="lg:w-auto w-[100px]"
+          />
           <img
             src="/public/TrustedSectionImage/Volvo_Index_Only.svg.png"
             alt=""
             className="lg:w-auto w-[30px]"
           />
-          <img src="/public/TrustedSectionImage/deloitte.svg.png" alt="" className="lg:w-auto w-[80px]" />
-          <img src="/public/TrustedSectionImage/okta.svg.png" alt="" className="lg:w-auto w-[40px]" />
+          <img
+            src="/public/TrustedSectionImage/deloitte.svg.png"
+            alt=""
+            className="lg:w-auto w-[80px]"
+          />
+          <img
+            src="/public/TrustedSectionImage/okta.svg.png"
+            alt=""
+            className="lg:w-auto w-[40px]"
+          />
         </div>
       </div>
     </div>
