@@ -82,7 +82,7 @@ const Footer = () => {
           </div>
           <div className="pt-[70px]">
             <div
-              className="bg-[#FFC247] rounded-3xl max-w-[436px] w-[436px] h-[232.39px] p-[35px 36px 36px 36px]"
+              className="bg-[#FDB235] rounded-3xl max-w-[436px]]"
               style={{
                 backgroundImage: `url(${logo})`,
                 backgroundRepeat: "no-repeat",
