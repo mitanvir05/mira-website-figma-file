@@ -16,7 +16,7 @@ export default function WorkTogether() {
             </p>
           </div>
           <div>
-            <img src="/public/WorktogetherImage/hybridwork.png.png" alt="" className="w-full" />
+            <img src="/WorktogetherImage/hybridwork.png.png" alt="" className="w-full" />
           </div>
         </div>
       </div>

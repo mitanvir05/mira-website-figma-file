@@ -13,7 +13,7 @@ const LovedSection = () => {
 
       <div className="lg:mt-[70px] ps-3 lg:ps-0 mt-[40px] grid  gap-3 grid-cols-3">
         <div>
-          <img src="/public/LovedSectionImage/vmware.svg.png" alt="" className="lg:w-full w-[120px]" />
+          <img src="/LovedSectionImage/vmware.svg.png" alt="" className="lg:w-full w-[120px]" />
           <p className="text-gray-500 my-6  max-w-[291px] lg:text-[18px] text-[13px] leading-[12px] lg:leading-[24px]">
             “When the pandemic hit, those of us who thrive on in-person
             collaboration were worried that our creativity and productivity
@@ -21,7 +21,7 @@ const LovedSection = () => {
             collaboration, whiteboarding, and retrospectives while remote.”
           </p>
           <div className="flex justify-start lg:mt-[50px]  mt-[20px] gap-4 items-center">
-            <img src="/public/LovedSectionImage/Mask_group-1.png.png" alt="" />
+            <img src="/LovedSectionImage/Mask_group-1.png.png" alt="" />
             <h1 className="lg:text-[14px] text-[10px] text-gray-500">
               Roxanne Mustafa <br />
               Design Team Lead at VMware
@@ -30,7 +30,7 @@ const LovedSection = () => {
         </div>
         <div>
           <img
-            src="/public/LovedSectionImage/Docusign-Testimonials-280-60-Baseline.svg.png"
+            src="/LovedSectionImage/Docusign-Testimonials-280-60-Baseline.svg.png"
             alt=""
             className="lg:w-full w-[120px]"
           />
@@ -41,7 +41,7 @@ const LovedSection = () => {
           </p>
 
           <div className="flex justify-start lg:mt-[125px] mt-[60px] gap-4 items-center">
-            <img src="/public/LovedSectionImage/Mask_group3.png.png" alt="" />
+            <img src="/LovedSectionImage/Mask_group3.png.png" alt="" />
             <h1 className="lg:text-[14px] text-[10px] text-gray-500">
               Jane Ashley <br />
               Head of Design at DocuSign
@@ -49,7 +49,7 @@ const LovedSection = () => {
           </div>
         </div>
         <div>
-          <img src="/public/LovedSectionImage/frog.svg.png" alt="" className="lg:w-full w-[120px]" />
+          <img src="/LovedSectionImage/frog.svg.png" alt="" className="lg:w-full w-[120px]" />
           <p className="text-gray-500 my-6  max-w-[291px] lg:text-[18px] text-[13px] leading-[12px] lg:leading-[24px]">
             “As we used Miro we moved from skepticism to belief to innovation,
             and now we have a tool that’s at the core of what we do and will
@@ -57,7 +57,7 @@ const LovedSection = () => {
           </p>
 
           <div className="flex justify-start lg:mt-[125px] mt-[60px] gap-4 items-center">
-            <img src="/public/LovedSectionImage/Mask_group2.png.png" alt="" />
+            <img src="/LovedSectionImage/Mask_group2.png.png" alt="" />
             <h1 className="lg:text-[14px] text-[10px] text-gray-500">
               Laura Baird <br />
               Associate Design Director at frog

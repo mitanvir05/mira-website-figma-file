@@ -60,14 +60,14 @@ const BuildForTeam = () => {
 
             <img
               className="mt-3 lg:mb-[100px] mb-[10px]"
-              src="/public/BuildForTeamImage/logosdesign.svg.png"
+              src="/BuildForTeamImage/logosdesign.svg.png"
               alt=""
             />
           </div>
           <div className="max-w-full">
             <img
               className="lg:w-full w-[250px]"
-              src="/public/BuildForTeamImage/uxdesignwithoutshadow.jpg.png"
+              src="/BuildForTeamImage/uxdesignwithoutshadow.jpg.png"
               alt=""
             />
           </div>

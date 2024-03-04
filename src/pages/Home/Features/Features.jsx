@@ -3,7 +3,7 @@ export default function Fetures() {
     <div className="lg:mt-[120px] mt-[20px]">
       <div>
         <div className="flex justify-end items-center pb-5 pe-[50px] lg:pe-[270px]">
-          <img src="/public/FeaturesImage/homepage-33-b.svg.png" alt="" className="  absolute" />
+          <img src="/FeaturesImage/homepage-33-b.svg.png" alt="" className="  absolute" />
         </div>
 
         <h1 className="text-center mt-10 leading-[26px] lg:leading-[56px] mx-auto lg:text-[48px] text-[24px] relative font-bold text-[#050038]">

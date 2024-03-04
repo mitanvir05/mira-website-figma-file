@@ -26,7 +26,7 @@ const Navbar = () => {
             </ul>
           </div>
           {/* logo */}
-          <img src="/public/navImage/Vector.png" alt="" />
+          <img src="/navImage/Vector.png" alt="" />
           {/* other content */}
           <div className="lg:flex text-[#050038] mt-2 text-[16px] justify-start items-center hidden">
             <ul className="menu">
@@ -70,7 +70,7 @@ const Navbar = () => {
         {/* end side */}
         <div className="navbar-end gap-5 text-[#050038] mt-2 text-[10px] lg:text-[16px]">
           <div className="lg:flex hidden justify-start gap-2 items-end">
-            <img src="/public/navImage/navworldlogo.png" alt="" />
+            <img src="/navImage/navworldlogo.png" alt="" />
             <p>EN</p>
           </div>
           <p>Contact Sales</p>

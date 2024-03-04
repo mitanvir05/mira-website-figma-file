@@ -44,7 +44,7 @@ const BuildTheWay = () => {
         </div>
         <div className="max-w-full">
           <img
-            src="/public/BuildTheWayImage/Brainstormwithoutshadow.jpg.png"
+            src="/BuildTheWayImage/Brainstormwithoutshadow.jpg.png"
             alt=""
           />
         </div>

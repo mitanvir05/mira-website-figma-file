@@ -13,14 +13,14 @@ const Footer = () => {
             {/* socal logo part */}
             <div className="flex justify-start gap-10 mb-7">
               <img
-                src="/public/FooterImage/Icon awesome-twitter-square.png"
+                src="/FooterImage/Icon awesome-twitter-square.png"
                 alt=""
               />
               <img
-                src="/public/FooterImage/Icon awesome-facebook-square.png"
+                src="/FooterImage/Icon awesome-facebook-square.png"
                 alt=""
               />
-              <img src="/public/FooterImage/Exclusion 8.png" alt="" />
+              <img src="/FooterImage/Exclusion 8.png" alt="" />
             </div>
 
             <div className="flex justify-start  gap-7 text-[11px] text-white">

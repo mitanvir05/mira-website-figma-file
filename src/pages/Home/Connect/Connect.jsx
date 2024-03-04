@@ -2,7 +2,7 @@ const Connect = () => {
   return (
     <div className="lg:mt-[80px] mt-[40px]">
       <div className="lg:flex flex-row justify-between items-center">
-        <img src="/public/ConnectImage/M3_integrations_all_integrations.png.png" alt="" />
+        <img src="/ConnectImage/M3_integrations_all_integrations.png.png" alt="" />
 
         <div className="max-w-[465px] ps-3 lg:ps-0 ">
           <h1 className="lg:text-[48px]   text-[24px] leading-[26px] font-bold text-[#050038] lg:leading-[56px] ">
