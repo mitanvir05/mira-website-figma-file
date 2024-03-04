@@ -8,27 +8,27 @@ const TrustedSection = () => {
 
         <div className="flex justify-between items-center lg:mt-11 mt-5 lg:mx-20 mx-4 ">
           <img
-            src="/public/TrustedSectionImage/Walmart_Index_Only.svg.png"
+            src="/TrustedSectionImage/Walmart_Index_Only.svg.png"
             alt=""
             className="lg:w-auto w-[60px]"
           />
           <img
-            src="/public/TrustedSectionImage/cisco.svg.png"
+            src="/TrustedSectionImage/cisco.svg.png"
             alt=""
             className="lg:w-auto w-[100px]"
           />
           <img
-            src="/public/TrustedSectionImage/Volvo_Index_Only.svg.png"
+            src="/TrustedSectionImage/Volvo_Index_Only.svg.png"
             alt=""
             className="lg:w-auto w-[30px]"
           />
           <img
-            src="/public/TrustedSectionImage/deloitte.svg.png"
+            src="/TrustedSectionImage/deloitte.svg.png"
             alt=""
             className="lg:w-auto w-[80px]"
           />
           <img
-            src="/public/TrustedSectionImage/okta.svg.png"
+            src="/TrustedSectionImage/okta.svg.png"
             alt=""
             className="lg:w-auto w-[40px]"
           />

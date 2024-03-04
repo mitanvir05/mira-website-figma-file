@@ -7,7 +7,6 @@ const HeroSection = () => {
             <h1 className=" font-bold lg:text-[48px]  text-[25px] lg:leading-[56px] leading-[26px]">
               Take ideas from better to best
             </h1>
-  
             <p className="my-6 text-[18px] leading-[24px]">
               Miro is your team's visual platform to connect, collaborate, and
               create — together.
@@ -27,12 +26,12 @@ const HeroSection = () => {
   
             <div className="bg-[#F5F5F7] max-w-[350px] mt-9 p-3 rounded flex justify-between gap-3">
               <div className="">
-                <img src="/public/HeroSectionImage/star.png" alt="" className="w-full" />
+                <img src="/HeroSectionImage/star.png" alt="" className="w-full" />
                 <p className="text-[11px]">Based on 5149+ reviews:</p>
               </div>
   
               <div className="flex justify-center items-center">
-                <img src="/public/HeroSectionImage/getapp.png" alt="" className="" />
+                <img src="./getapp.png" alt="" className="" />
               </div>
             </div>
           </div>
@@ -40,7 +39,7 @@ const HeroSection = () => {
       2nd part */}
           <div className="pt-5">
             <img
-              src="/public/HeroSectionImage/headerimage-without-text.png.png"
+              src="/HeroSectionImage/headerimage-without-text.png.png"
               alt=""
               className="lg:w-[640px]  w-[330px] mx-auto"
             />

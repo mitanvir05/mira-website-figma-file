@@ -7,8 +7,6 @@ import TheWayWeWork from "./TheWayWeWork/TheWayWeWork";
 import BuildTheWay from "./BuildTheWay/BuildTheWay";
 import BuildForTeam from "./BuildForTeam/BuildForTeam";
 import LovedSection from "./LovedSection/LovedSection";
-
-
 const Home = () => {
   return (
     <div className="max-w-[1140px] mx-auto">
