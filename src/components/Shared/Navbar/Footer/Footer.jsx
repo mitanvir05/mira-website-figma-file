@@ -82,7 +82,7 @@ const Footer = () => {
           </div>
           <div className="pt-[70px]">
             <div
-              className="bg-[#FFC247] rounded-s-[40px] rounded-e-2xl max-w-[436px] w-[436px] h-[232.39px] p-[35px 36px 36px 36px]"
+              className="bg-[#FFC247] rounded-3xl max-w-[436px] w-[436px] h-[232.39px] p-[35px 36px 36px 36px]"
               style={{
                 backgroundImage: `url(${logo})`,
                 backgroundRepeat: "no-repeat",
@@ -90,7 +90,7 @@ const Footer = () => {
                 backgroundSize: "contain",
               }}
             >
-              <div className="px-8 py-8">
+              <div className="px-8 py-8 ">
                 <h1 className="text-[23px] leading-[30px] font-bold">
                   Sign up for our newsletter
                 </h1>

@@ -16,7 +16,7 @@ const Navbar = () => {
             </div>
             <ul
               tabIndex={0}
-              className="menu menu-sm dropdown-content gap-4 p-4  mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52"
+              className="menu menu-sm dropdown-content gap-4  mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52"
             >
               <li>Products</li>
               <li>Solutions</li>
@@ -28,7 +28,7 @@ const Navbar = () => {
           {/* logo */}
           <img src="/public/navImage/Vector.png" alt="" />
           {/* other content */}
-          <div className="lg:flex gap-1 text-[#050038] mt-2 text-[16px] ms-8 justify-start items-center hidden">
+          <div className="lg:flex text-[#050038] mt-2 text-[16px] justify-start items-center hidden">
             <ul className="menu">
               <li>
                 <details>
