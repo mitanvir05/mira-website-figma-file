@@ -6,6 +6,7 @@ import Connect from "./Connect/Connect";
 import TheWayWeWork from "./TheWayWeWork/TheWayWeWork";
 import BuildTheWay from "./BuildTheWay/BuildTheWay";
 import BuildForTeam from "./BuildForTeam/BuildForTeam";
+import LovedSection from "./LovedSection/LovedSection";
 
 
 const Home = () => {
@@ -19,6 +20,7 @@ const Home = () => {
       <TheWayWeWork/>
       <BuildTheWay/>
       <BuildForTeam/>
+      <LovedSection/>
     </div>
   );
 };
