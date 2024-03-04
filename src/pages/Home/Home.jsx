@@ -3,6 +3,8 @@ import TrustedSection from "./TrustedSection/TrustedSection";
 import Features from "./Features/Features";
 import WorkTogether from "./Worktogether/Worktogether";
 import Connect from "./Connect/Connect";
+import TheWayWeWork from "./TheWayWeWork/TheWayWeWork";
+import BuildTheWay from "./BuildTheWay/BuildTheWay";
 
 
 const Home = () => {
@@ -13,6 +15,8 @@ const Home = () => {
       <Features/>
       <WorkTogether/>
       <Connect/>
+      <TheWayWeWork/>
+      <BuildTheWay></BuildTheWay>
     </div>
   );
 };
